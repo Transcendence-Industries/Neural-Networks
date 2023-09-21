@@ -1,0 +1,6 @@
+artifacts/*.nn
+
+*.o
+
+neural-networks
+neural-networks-tests
